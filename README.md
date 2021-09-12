@@ -1,3 +1,2 @@
 # cobol-projects
-
-![alt text](https://github.com/wingemo/cobol-projects/blob/main/PunchCard.png?raw=true)
+<img src="https://github.com/wingemo/cobol-projects/blob/main/PunchCard.png?raw=true" align="left" height="48" width="48" >
