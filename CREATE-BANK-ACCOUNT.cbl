@@ -5,7 +5,6 @@
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
-       
        PROGRAM-ID. CREATE-BANK-ACCOUNT.
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
