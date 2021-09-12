@@ -5,5 +5,3 @@ This project started because I wanted to learn more about the bank's currency tr
 
 <img src="https://github.com/wingemo/cobol-projects/blob/main/PunchCard.png?raw=true" width="60%">
 
-- Create a account
-- Delete a account
