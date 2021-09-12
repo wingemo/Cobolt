@@ -4,3 +4,6 @@ This project started because I wanted to learn more about the bank's currency tr
 > You learn how businesses used to operate, it runs over 70% of the world’s business transactions today :)
 
 <img src="https://github.com/wingemo/cobol-projects/blob/main/PunchCard.png?raw=true" width="60%">
+
+- Create a account
+- Delete a account
