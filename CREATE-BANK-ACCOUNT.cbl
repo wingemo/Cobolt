@@ -19,7 +19,7 @@
            02 ACCOUNT_PNR PIC 9(20).
            02 ACCOUNT_SUM PIC 9(8).
        WORKING-STORAGE SECTION.
-        01 WS_ACCOUNT_DATA.
+       01 WS_ACCOUNT_DATA.
            02 WS_ACCOUNT_ID  PIC 9(8).
            02 WS_ACCOUNT_SUM PIC 9(8).
        SCREEN SECTION.
